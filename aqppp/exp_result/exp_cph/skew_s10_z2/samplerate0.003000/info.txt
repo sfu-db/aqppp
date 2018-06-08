@@ -1,0 +1,33 @@
+sample_row_num:180064.000000
+sample size: 180064
+dim:0	distinct_value:178993	mtl_num:400	max_err:878371146.315320	climb_iter_num:28
+dim:1	distinct_value:1153	mtl_num:50	max_err:873367518.996494	climb_iter_num:39
+
+gen query_num: 300
+real query_num: 300
+sampling offline time: 0.000000
+NF hybird offline time: 2.499000
+
+avg spl_online_time: 0.235537
+avg NF_hybrid_online_time: 0.261337
+avg direct_online_time: 0.965583
+before_query_time: 6.877000
+total_run_time: 304.620000
+
+avg_spl_error: 3.236867%
+avg_aqpp_error: 0.536157%
+median_spl_error: 2.877605%
+median_aqpp_error: 0.359542%
+spl_95p_error: 5.383120%
+aqpp_95p_error: 1.520963%
+
+AQP offline time: 0.000000
+AQP++ offline time: 2.499000
+create sample in db time: 0.000000
+create small_sample in db time: 0.000000
+read sample from db: 0.235000
+read small_sample from db: 0.024000
+NF dist mtl data tot time: 2.398000
+NF cpt mtl res time: 0.000000
+
+exp_time: 304.630000

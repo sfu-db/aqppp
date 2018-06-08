@@ -1,0 +1,3 @@
+FULL_TABLE_NAME=skew_s100_z2.dbo.lineitem
+SAMPLE_NAME=skew_s100_z2.dbo.sample
+SAMPLE_RATE=0.1
