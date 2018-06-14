@@ -6,4 +6,4 @@ Currently the repo contains the experimental code. We will release version 1.0 v
 The experimental code was written using Visual Studio 2017, and built on top of SQL Server 2017. It could run on Windows system.  
 
 # Questions?
-If you have any question, please feel to connect jinglin (jinglin_peng AT sfu DOT ca).
+If you have any question, please feel free to connect jinglin (jinglin_peng AT sfu DOT ca).
