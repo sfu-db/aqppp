@@ -1,5 +1,5 @@
 # About
-This is the repo for paper 'AQP++: Connecting Approximate Query Processing With Aggregate Precomputation for Interactive Analytics'. The main idea of this work is using precomputed query results to improve the query quality of AQP (sampling) method. Our results show that AQP++ could trade only a little additional overhead to get a much better answer quality (e.g. 10X more accurate than AQP method!)  
+This is the repo for paper 'AQP++: Connecting Approximate Query Processing With Aggregate Precomputation for Interactive Analytics' ([paper](../SIGMOD2018_AQP%2B%2B_paper.pdf), [slides](../SIGMOD2018_AQP%2B%2B_slides.pdf)). The main idea of this work is using precomputed query results to improve the query quality of AQP (sampling) method. Our results show that AQP++ could trade only a little additional overhead to get a much better answer quality (e.g. 10X more accurate than AQP method!)  
 
 Currently the repo contains the experimental code. We will release version 1.0 very soon.
 
