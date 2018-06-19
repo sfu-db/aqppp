@@ -6,9 +6,9 @@ Currently the repo contains the experimental code. We will release version 1.0 v
 The experimental code was written using Visual Studio 2017, and built on top of SQL Server 2017. It could run on Windows system.  
 
 # Link
-### <a href="../master/SIGMOD2018_AQP%2B%2B_paper.pdf" target="_blank">paper</a>
+<a href="../master/SIGMOD2018_AQP%2B%2B_paper.pdf" target="_blank">paper</a>
 
-### <a href="../master/SIGMOD2018_AQP%2B%2B_slides.pdf" target="_blank">slides</a>
+<a href="../master/SIGMOD2018_AQP%2B%2B_slides.pdf" target="_blank">slides</a>
 
 # Questions?
 If you have any question, please feel free to connect jinglin (jinglin_peng AT sfu DOT ca).
